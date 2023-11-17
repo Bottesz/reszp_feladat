@@ -1,0 +1,12 @@
+main{
+    border: 10px;
+    max-width: 1200px;
+    margin: 10px;
+
+}
+
+nav {
+    background-color: grey;
+    color: red;
+    padding: 0;
+}
